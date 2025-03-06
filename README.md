@@ -1,44 +1,55 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1639762681057-408e52192e55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1926&q=80" alt="NFT Nexus" width="100%" style="border-radius: 10px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);" />
+  <img src="https://images.unsplash.com/photo-1639762681057-408e52192e55?ixlib=rb-4.0.3&auto=format&fit=crop&w=1926&q=80" alt="Tech Banner" width="100%" style="border-radius: 10px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=600&height=70&lines=NFT+Nexus;Create%2C+Buy%2C+Sell%2C+Collect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=2563EB&center=true&vCenter=true&lines=Jeanfr1;AI+Developer+%7C+Fullstack+Engineer;Frontend+Developer+%7C+Web3+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="#-overview">Overview</a> •
+  <a href="#-about-me">About Me</a> •
   <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-features">Features</a> •
-  <a href="#-getting-started">Getting Started</a> •
-  <a href="#-architecture">Architecture</a> •
-  <a href="#-security">Security</a>
+  <a href="#-what-i-m-working-on">What I'm Working On</a> •
+  <a href="#-experience">Experience</a> •
+  <a href="#-skills">Skills</a> •
+  <a href="#-contact">Contact</a>
 </p>
 
 <div align="center">
-  <a href="https://github.com/Jeanfr1/web3app/stargazers"><img src="https://img.shields.io/github/stars/Jeanfr1/web3app?color=2563EB&style=for-the-badge" alt="Stars Badge"/></a>
-  <a href="https://github.com/Jeanfr1/web3app/network/members"><img src="https://img.shields.io/github/forks/Jeanfr1/web3app?color=3B82F6&style=for-the-badge" alt="Forks Badge"/></a>
-  <a href="https://github.com/Jeanfr1/web3app/pulls"><img src="https://img.shields.io/github/issues-pr/Jeanfr1/web3app?color=60A5FA&style=for-the-badge" alt="Pull Requests Badge"/></a>
-  <a href="https://github.com/Jeanfr1/web3app/issues"><img src="https://img.shields.io/github/issues/Jeanfr1/web3app?color=93C5FD&style=for-the-badge" alt="Issues Badge"/></a>
-  <a href="https://github.com/Jeanfr1/web3app/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Jeanfr1/web3app?color=BFDBFE&style=for-the-badge"></a>
+  <a href="https://github.com/Jeanfr1/Jeanfr1/stargazers">
+    <img src="https://img.shields.io/github/stars/Jeanfr1/Jeanfr1?color=2563EB&style=for-the-badge" alt="Stars Badge"/>
+  </a>
+  <a href="https://github.com/Jeanfr1/Jeanfr1/network/members">
+    <img src="https://img.shields.io/github/forks/Jeanfr1/Jeanfr1?color=3B82F6&style=for-the-badge" alt="Forks Badge"/>
+  </a>
+  <a href="https://github.com/Jeanfr1/Jeanfr1/issues">
+    <img src="https://img.shields.io/github/issues/Jeanfr1/Jeanfr1?color=93C5FD&style=for-the-badge" alt="Issues Badge"/>
+  </a>
+  <a href="https://github.com/Jeanfr1/Jeanfr1/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Jeanfr1/Jeanfr1?color=BFDBFE&style=for-the-badge" alt="Contributors Badge"/>
+  </a>
 </div>
 
 <br />
 
+<!-- Tech Stack Badges -->
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" />
+  <img src="https://img.shields.io/badge/Ethers.js-234E8C?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js" />
 </div>
 
 <br />
 
-## ✨ Overview
+## ✨ About Me
 
-NFT Nexus is a decentralized marketplace for creating, buying, selling, and collecting unique digital assets. Built on the Ethereum blockchain, our platform provides a secure and user-friendly environment for artists, collectors, and enthusiasts to engage with the world of NFTs. With a focus on accessibility, NFT Nexus offers both traditional email/password authentication and Web3 wallet integration, making it approachable for both crypto natives and newcomers.
+I am an AI Developer, Fullstack Engineer, and Automation & Data Integration Specialist with a passion for crafting intelligent solutions that drive business transformation. With a strong background in both AI and Fullstack Development, I have led projects for global companies like Microsoft and HP, and currently spearhead innovative solutions at Agence Jaraujo.
+
+I design and implement AI-driven systems that optimize workflows, enhance data analysis, and facilitate the development of scalable digital experiences. My work bridges cutting-edge technology with user-centric design, ensuring that both technical precision and intuitive interfaces are at the forefront of every project.
 
 <br />
 
@@ -46,6 +57,7 @@ NFT Nexus is a decentralized marketplace for creating, buying, selling, and coll
 
 <table align="center">
   <tr>
+    <!-- Frontend -->
     <td align="center" width="96">
       <a href="https://reactjs.org/">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
@@ -53,10 +65,10 @@ NFT Nexus is a decentralized marketplace for creating, buying, selling, and coll
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>JavaScript
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="https://tailwindcss.com/">
@@ -64,6 +76,30 @@ NFT Nexus is a decentralized marketplace for creating, buying, selling, and coll
       </a>
       <br>Tailwind CSS
     </td>
+  </tr>
+  <tr>
+    <!-- Backend & AI -->
+    <td align="center" width="96">
+      <a href="https://nodejs.org/">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.tensorflow.org/">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      </a>
+      <br>TensorFlow
+    </td>
+  </tr>
+  <tr>
+    <!-- Web3 & Blockchain -->
     <td align="center" width="96">
       <a href="https://ethereum.org/">
         <img src="https://skillicons.dev/icons?i=ethereum" width="48" height="48" alt="Ethereum" />
@@ -71,301 +107,85 @@ NFT Nexus is a decentralized marketplace for creating, buying, selling, and coll
       <br>Ethereum
     </td>
     <td align="center" width="96">
-      <a href="https://supabase.io/">
-        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-      </a>
-      <br>Supabase
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
       <a href="https://hardhat.org/">
         <img src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg" width="48" height="48" alt="Hardhat" />
       </a>
       <br>Hardhat
     </td>
     <td align="center" width="96">
-      <a href="https://soliditylang.org/">
-        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+      <a href="https://docs.ethers.org/">
+        <img src="https://skillicons.dev/icons?i=ethers" width="48" height="48" alt="Ethers.js" />
       </a>
-      <br>Solidity
-    </td>
-    <td align="center"  width="96">
-      <a href="https://ipfs.tech/">
-        <img src="https://docs.ipfs.tech/images/ipfs-logo.svg" width="48" height="48" alt="IPFS" />
-      </a>
-      <br>IPFS/Fleek
-    </td>
-    <td align="center"  width="96">
-      <a href="https://metamask.io/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" width="48" height="48" alt="MetaMask" />
-      </a>
-      <br>MetaMask
-    </td>
-    <td align="center" width="96">
-      <a href="https://nodejs.org/">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      </a>
-      <br>Node.js
+      <br>Ethers.js
     </td>
   </tr>
 </table>
 
-### Frontend
-- **React**: Component-based UI library for building the user interface
-- **Tailwind CSS**: Utility-first CSS framework for rapid UI development
-- **React Router**: Client-side routing for single-page application navigation
-
-### Authentication & Database
-- **Supabase**: Backend-as-a-Service platform providing:
-  - Authentication (email/password and JWT)
-  - PostgreSQL database with Row Level Security
-  - Real-time subscriptions
-- **MetaMask Integration**: Web3 wallet connection for blockchain interactions
-
-### Storage
-- **Fleek Storage**: Decentralized storage solution built on IPFS
-- **IPFS**: InterPlanetary File System for decentralized file storage
-
-### Blockchain
-- **Ethereum**: Blockchain platform for smart contract deployment
-- **Solidity**: Smart contract programming language
-- **Hardhat**: Development environment for Ethereum software
-- **ethers.js**: Library for interacting with the Ethereum blockchain
-
-### Development Tools
-- **Node.js**: JavaScript runtime for development
-- **npm**: Package manager for JavaScript
-- **ESLint/Prettier**: Code quality and formatting tools
-
 <br />
 
-## 🔥 Features
+## ✨ What I'm Working On Now
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>🔐 Dual Authentication</h3>
-        <ul>
-          <li>MetaMask wallet connection for Web3 users</li>
-          <li>Traditional email/password login for newcomers</li>
-          <li>Secure JWT-based authentication</li>
-          <li>Message signing for wallet verification</li>
-        </ul>
-      </td>
-      <td>
-        <h3>🎨 NFT Creation</h3>
-        <ul>
-          <li>Upload digital assets to decentralized storage</li>
-          <li>Set metadata and properties for NFTs</li>
-          <li>Preview before minting</li>
-          <li>Decentralized storage via IPFS/Fleek</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>⛓️ Blockchain Integration</h3>
-        <ul>
-          <li>Mint NFTs directly to Ethereum blockchain</li>
-          <li>Smart contract for marketplace transactions</li>
-          <li>Gas fee estimation</li>
-          <li>Transaction history tracking</li>
-        </ul>
-      </td>
-      <td>
-        <h3>🛒 Marketplace</h3>
-        <ul>
-          <li>Browse available NFTs</li>
-          <li>Buy and sell digital assets</li>
-          <li>Filter and search functionality</li>
-          <li>Detailed NFT viewing</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>📊 User Dashboard</h3>
-        <ul>
-          <li>View owned NFTs</li>
-          <li>Track created NFTs</li>
-          <li>Monitor sales and purchases</li>
-          <li>Manage user profile</li>
-        </ul>
-      </td>
-      <td>
-        <h3>🔄 Responsive Design</h3>
-        <ul>
-          <li>Mobile-friendly interface</li>
-          <li>Adaptive layouts for all screen sizes</li>
-          <li>Optimized user experience</li>
-          <li>Accessible UI components</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Current%20Focus-Frontend%20%7C%20Web3%20Development-blue?style=for-the-badge" alt="Current Focus Badge" />
 </div>
 
-<br />
-
-## 🚀 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/Jeanfr1/web3app.git
-
-# Navigate to the project directory
-cd web3app
-
-# Install dependencies
-npm install
-
-# Set up environment variables
-# Create a .env file with the following variables:
-# REACT_APP_SUPABASE_URL=your_supabase_url
-# REACT_APP_SUPABASE_ANON_KEY=your_supabase_anon_key
-# REACT_APP_FLEEK_API_KEY=your_fleek_api_key
-# REACT_APP_FLEEK_API_SECRET=your_fleek_api_secret
-# REACT_APP_CONTRACT_ADDRESS=your_deployed_contract_address
-
-# Deploy the smart contract (optional, if not already deployed)
-npx hardhat run scripts/deploy.js --network <your-network>
-
-# Run the development server
-npm start
-
-# Open http://localhost:3000 in your browser
-```
-
-### Smart Contract Deployment
-
-```bash
-# Navigate to the project directory
-cd web3app
-
-# Compile the smart contract
-npx hardhat compile
-
-# Run tests
-npx hardhat test
-
-# Deploy to a testnet (e.g., Goerli)
-npx hardhat run scripts/deploy.js --network goerli
-
-# Deploy to mainnet (use with caution)
-npx hardhat run scripts/deploy.js --network mainnet
-```
+- **Frontend Development:** Building scalable, high-performance applications using React, TypeScript, and Tailwind CSS with an emphasis on pixel-perfect UI/UX and responsive design.
+- **Web3 Integration:** Developing decentralized applications (dApps) with blockchain integration using Ethers.js, Hardhat, and smart contracts.
+- **Innovation in Decentralized Finance:** Contributing to next-generation DeFi projects and DEX UIs that redefine user experiences on the blockchain.
+- **Continuous Learning:** Staying at the forefront of emerging Web3 trends, gas optimization techniques, and advanced dApp architectures.
 
 <br />
 
-## 🏗️ Architecture
+## 💼 Experience
 
-NFT Nexus is built with a modern, scalable architecture:
+### Kasst · Freelance (Dec 2024 – Present | Remote, France)
+- **Role:** Frontend Developer | React | TypeScript | Web3 Enthusiast | UX/UI
+- **Highlights:**
+  - Developed scalable front-end architectures with React, TypeScript, and Node.js.
+  - Integrated Web3 solutions using Ethers.js, Hardhat, and smart contracts.
+  - Translated UI/UX designs into responsive and interactive user interfaces.
+  - Led 0-to-1 initiatives in building innovative decentralized applications (dApps) and DEX UIs.
 
-<div align="center">
-  <pre>
-  ├── public/              # Static assets
-  ├── src/
-  │   ├── components/      # Reusable UI components
-  │   │   ├── LogoutButton.jsx
-  │   │   ├── Navbar.jsx
-  │   │   ├── NFTCard.jsx
-  │   │   └── SkeletonLoader.jsx
-  │   ├── contexts/        # React contexts
-  │   │   └── AuthContext.js
-  │   ├── hooks/           # Custom React hooks
-  │   │   └── useAuth.js
-  │   ├── pages/           # Application pages
-  │   │   ├── Dashboard.jsx
-  │   │   ├── Home.jsx
-  │   │   ├── Login.jsx
-  │   │   ├── Marketplace.jsx
-  │   │   ├── MintNFT.jsx
-  │   │   ├── NFTDetail.jsx
-  │   │   ├── Register.jsx
-  │   │   └── UploadNFT.jsx
-  │   ├── services/        # Service modules
-  │   │   ├── nftService.js
-  │   │   └── userService.js
-  │   ├── App.js           # Main application component
-  │   ├── App.css          # Global styles
-  │   ├── contractInteraction.js # Smart contract interaction
-  │   ├── fleekStorage.js  # IPFS storage integration
-  │   ├── index.css        # Base styles
-  │   ├── supabaseClient.js # Supabase client configuration
-  │   └── web3Client.js    # Web3 integration
-  ├── contracts/           # Smart contracts
-  │   └── MarketplaceNFT.sol
-  ├── scripts/             # Deployment scripts
-  │   └── deploy.js
-  ├── test/                # Contract tests
-  │   └── MarketplaceNFT.test.js
-  ├── .env                 # Environment variables
-  ├── hardhat.config.js    # Hardhat configuration
-  └── tailwind.config.js   # Tailwind CSS configuration
-  </pre>
-</div>
+### Agence Jaraujo
+- **Role:** AI Developer & Integration Specialist
+- **Highlights:**
+  - Automated repetitive tasks using AI-driven tools, reducing workload by 40%.
+  - Integrated data analysis pipelines with AI models, resulting in 35% faster decision-making.
+  - Enhanced project delivery efficiency by implementing smart automation workflows.
+
+### HP (HPE Flex Offers Program)
+- **Role:** Strategic Outreach & Training Lead
+- **Highlights:**
+  - Led training initiatives and custom solutions, boosting program adoption by 20%.
+  - Improved customer engagement and satisfaction through tailored training solutions.
+
+### Microsoft
+- **Role:** Technology Project Support
+- **Highlights:**
+  - Streamlined business processes, reducing operational costs by 18%.
+  - Enhanced client solutions via innovative automation strategies, driving higher productivity.
 
 <br />
 
-## 🔒 Security
+## 🔧 Skills
 
-NFT Nexus implements robust security measures:
-
-- **Authentication**:
-  - Dual authentication methods (wallet and email/password)
-  - JWT-based session management
-  - Message signing for wallet verification
-  - Secure password handling
-
-- **Database Security**:
-  - Row Level Security (RLS) in Supabase
-  - Granular access control policies
-  - Data validation and sanitization
-
-- **Smart Contract Security**:
-  - Comprehensive test coverage
-  - Best practices implementation
-  - Access control mechanisms
-  - Reentrancy protection
-
-- **Frontend Security**:
-  - Input validation
-  - Protection against common web vulnerabilities
-  - Secure API communication
+- **AI & Automation:** AI Integration, Machine Learning Fundamentals, Data Analysis, Workflow Optimization.
+- **Frontend Development:** React, TypeScript, Tailwind CSS, Responsive Design, UX/UI.
+- **Web3 & Blockchain:** Ethereum, Smart Contract Development, Hardhat, Ethers.js, dApp Development, DeFi, MetaMask Integration.
+- **Backend & API Development:** Node.js, Express, API Integration.
+- **Collaboration & Agile:** Project Leadership, Cross-Functional Team Collaboration, Agile Methodologies.
+- **Multilingual Communication:** English, French, Portuguese.
 
 <br />
 
-## 🌟 Future Enhancements
+## 📫 Contact
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>🔍 Multi-Chain Support</h3>
-        <p>Expand beyond Ethereum to other blockchains like Polygon, Solana, etc.</p>
-      </td>
-      <td>
-        <h3>📱 Mobile App</h3>
-        <p>Develop native mobile applications for iOS and Android</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>🌐 NFT Collections</h3>
-        <p>Support for creating and managing collections of related NFTs</p>
-      </td>
-      <td>
-        <h3>🤖 AI-Generated NFTs</h3>
-        <p>Integration with AI tools for NFT creation and enhancement</p>
-      </td>
-    </tr>
-  </table>
-</div>
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com)
+- **GitHub:** [@Jeanfr1](https://github.com/Jeanfr1)
+- **Email:** your.email@example.com
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20NFT%20Nexus%20Team&fontSize=24&fontColor=white" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Jeanfr1&fontSize=24&fontColor=white" width="100%" />
 </div>
