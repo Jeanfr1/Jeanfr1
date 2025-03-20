@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=45&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=JEANFR1;FRONTEND+%7C+WEB3+%7C+AUTOMATION;BUILDING+THE+FUTURE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=45&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=100&lines=JEANFR1;FRONTEND+%7C+WEB3+%7C+AUTOMATION;BUILDING+THE+FUTURE" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -57,22 +57,16 @@
 
 <br />
 
-<div align="center">
+
+<div align="center" style="margin-top:10px;">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-</div>
-
-<div align="center" style="margin-top:10px;">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </div>
 
 <div align="center" style="margin-top:10px;">
@@ -213,7 +207,7 @@
       <td align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZlMzRkZDRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UcK7JalnjCz0k/giphy.gif" width="100" />
         <h3>Frontend Development</h3>
-        <p>React, Next.js, TypeScript, Tailwind CSS, Responsive & Futuristic UI/UX, Framer Motion</p>
+        <p>React, Next.js, TypeScript, Redux, Zustand, Tailwind CSS, Responsive & Futuristic UI/UX, Framer Motion</p>
       </td>
       <td align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZlMzRkZDRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/coxQHKASG60HrHtvkt/giphy.gif" width="100" />
