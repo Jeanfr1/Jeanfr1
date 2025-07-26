@@ -26,26 +26,7 @@
 
 <br />
 
-<div align="center">
-  <a href="https://github.com/Jeanfr1/Jeanfr1/stargazers">
-    <img src="https://img.shields.io/github/stars/Jeanfr1/Jeanfr1?color=00FFFF&style=for-the-badge&logo=starship&logoColor=black" alt="Stars Badge"/>
-  </a>
-  <a href="https://github.com/Jeanfr1/Jeanfr1/network/members">
-    <img src="https://img.shields.io/github/forks/Jeanfr1/Jeanfr1?color=00FFFF&style=for-the-badge&logo=git&logoColor=black" alt="Forks Badge"/>
-  </a>
-  <a href="https://github.com/Jeanfr1/Jeanfr1/issues">
-    <img src="https://img.shields.io/github/issues/Jeanfr1/Jeanfr1?color=00FFFF&style=for-the-badge&logo=gitbook&logoColor=black" alt="Issues Badge"/>
-  </a>
-  <a href="https://github.com/Jeanfr1/Jeanfr1/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Jeanfr1/Jeanfr1?color=00FFFF&style=for-the-badge&logo=opensourceinitiative&logoColor=black" alt="Contributors Badge"/>
-  </a>
-</div>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeanfr1&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&border_color=00FFFF&border_radius=20" alt="GitHub Stats" />
-</div>
 
 <br />
 
@@ -112,6 +93,8 @@
           <br /><br />
           Passionate about <b>innovation and learning</b>, I blend modern web technologies with generative AI to build impactful digital experiences. From creating autonomous AI agents to developing smart content generation pipelines, I bring creative energy and technical precision to every project.
           <br /><br />
+          Recently, I've discovered a new passion for <b>mobile app development</b>, diving into <b>React Native</b>, <b>Expo</b>, and <b>Flutter</b> to extend my skills into the mobile ecosystem. This exciting journey into cross-platform development opens new possibilities for creating AI-powered mobile experiences.
+          <br /><br />
           Whether I'm integrating <b>OpenAI GPT APIs</b> for WhatsApp automation, building <b>React.js interfaces</b> with <b>TypeScript</b>, or designing <b>AI-powered dashboards</b>, I believe in bridging the gap between cutting-edge AI and seamless user experiences.
         </p>
       </td>
@@ -157,6 +140,14 @@
         <br />
         <b>Data & Analytics</b>
         <p>Designing AI-powered dashboards and vector database systems for customer insights and lead tracking.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZlMzRkZDRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LmNWrk5DrdhjQ/giphy.gif" width="100" />
+        <br />
+        <b>Mobile App Development</b>
+        <p>🌟 NEW PASSION: Exploring React Native, Expo, Flutter, and Firebase to create cross-platform mobile experiences with AI integration.</p>
       </td>
     </tr>
   </table>
@@ -255,6 +246,13 @@
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZlMzRkZDRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l378BzHA5FwWFXVSg/giphy.gif" width="100" />
         <h3>Communication & Training</h3>
         <p>Multilingual (English, French, Portuguese), Technical Documentation, Presentations, Webinars</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZlMzRkZDRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMzRlMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPic2TYx8zDm7Ic/giphy.gif" width="100" />
+        <h3>📱 Mobile Development (Learning Journey)</h3>
+        <p>🌟 NEW PASSION: React Native, Expo, Flutter, Firebase, React Navigation, Redux/Zustand for Mobile, Push Notifications, App Store & Play Store Deployment, Performance Optimization</p>
       </td>
     </tr>
   </table>
